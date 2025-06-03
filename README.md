@@ -3,6 +3,7 @@
 
 🚀 **Fractions Web App** is an interactive web application designed to **perform operations and visualize fractions dynamically**. This tool allows users to **add, subtract, multiply, and divide fractions**, simplifying them in real-time and providing **step-by-step breakdowns** of calculations.  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Fractions-Math/)
 ---
 
 ## 🏆 Features  
