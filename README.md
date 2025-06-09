@@ -52,7 +52,7 @@ If you enjoy **Fractions Web App**, ⭐ **star this repository** and share with 
 
 ## 🔗 License  
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **GPL License**.  
 Feel free to **use, modify, and distribute** it freely! 😊  
 
 ---
